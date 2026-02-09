@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import ttk
-#from pytube import YouTube
 from pytubefix import YouTube
 from tkinter.messagebox import showinfo, showerror
 import threading
