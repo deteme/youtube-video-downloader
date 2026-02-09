@@ -59,15 +59,6 @@ python youtube_downloader_cli.py
 
 ---
 
-## Requirements
-
-`requirements.txt` contains:
-```
-pytubefix==0.4.1
-```
-
----
-
 ## Notes
 
 - FFmpeg is **required** for 720p+ downloads
