@@ -2,6 +2,7 @@
 # YouTube Video Downloader
 
 Python tool to download YouTube videos in highest quality.
+```
 
 - **GUI** : `youtube_downloader_ui.py` (with progress bar)
 - **CLI** : `youtube_downloader_cli.py` (for automation)
