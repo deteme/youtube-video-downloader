@@ -1,5 +1,6 @@
-```markdown
+
 # YouTube Video Downloader
+```
 
 Python tool to download YouTube videos in highest quality.
 ```
@@ -70,7 +71,7 @@ pytubefix==0.4.1
 ## Notes
 
 - FFmpeg is **required** for 720p+ downloads
-- Without FFmpeg: max 360p quality
+- Without FFmpeg: Available quality is only 360p 
 - Age-restricted videos handled automatically
 - Temporary files cleaned up after download
 ```
