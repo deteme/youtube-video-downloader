@@ -11,7 +11,7 @@ Python tool to download YouTube videos in highest quality.
 ```
 
 ---
-
+```
 ## Installation (Windows + venv)
 
 From project root (`youtube-video-downloader/`) :
