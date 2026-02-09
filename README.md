@@ -14,8 +14,12 @@ Python tool to download YouTube videos in highest quality.
 From project root (`youtube-video-downloader/`) :
 
 ```cmd
-py -m venv .venv
+python -m venv .venv
+```
+```
 .\.venv\Scripts\activate
+```
+```
 pip install -r requirements.txt
 ```
 
