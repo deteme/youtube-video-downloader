@@ -1,17 +1,14 @@
 # YouTube Video Downloader
 
 Python tool to download YouTube videos in highest quality.
-```
-```
 
 - **GUI** : `youtube_downloader_ui.py` (with progress bar)
 - **CLI** : `youtube_downloader_cli.py` (for automation)
 - **Input** : YouTube video URL
 - **Output** : `[Video Title].mp4` in project folder
-```
 
 ---
-```
+
 ## Installation (Windows + venv)
 
 From project root (`youtube-video-downloader/`) :
