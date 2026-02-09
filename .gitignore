@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.mp4
+video_*
+audio_*
+ffmpeg.exe
+.DS_Store
+*.log
+EOF
