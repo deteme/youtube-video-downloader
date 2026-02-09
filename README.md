@@ -7,6 +7,7 @@ Python tool to download YouTube videos in highest quality.
 - **CLI** : `youtube_downloader_cli.py` (for automation)
 - **Input** : YouTube video URL
 - **Output** : `[Video Title].mp4` in project folder
+```
 
 ---
 
