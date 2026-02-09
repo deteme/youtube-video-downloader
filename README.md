@@ -61,8 +61,7 @@ python youtube_downloader_cli.py
 
 ## Notes
 
-- FFmpeg is **required** for 720p+ downloads
+- FFmpeg is **required** for high resolution downloads
 - Without FFmpeg: Available quality is only 360p 
 - Age-restricted videos handled automatically
 - Temporary files cleaned up after download
-```
